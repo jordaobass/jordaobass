@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordaobass)](https://github.com/jordaobass/github-readme-stats)
 
 
-[Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordaobass&repo=react_notas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordaobass&repo=react_notas)!]
