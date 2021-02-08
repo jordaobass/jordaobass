@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordaobass&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordaobass)](https://github.com/jordaobass/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordaobass&theme=radical)](https://github.com/jordaobass/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordaobass&repo=react_notas)!]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jordaobass&repo=react_notas&theme=radical)!]
