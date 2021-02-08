@@ -1,21 +1,23 @@
 ### Ola 👋
 
+<div align="center">
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rmkarato)](https://github.com/jordaobass)       [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-schenker-23479773/)]
+</div>
 
+## Techs
 
-#### Techs
-
-Java;
-.NET;
-.NET CORE;
-JavaScript;
-TypeScript;
-ReactJS;
-React-Native;
-NodeJS;
-Flutter;
-HTML & CSS;
-SQL;
-etc.
+- Java;
+- .NET;
+- .NET CORE;
+- JavaScript;
+- TypeScript;
+- ReactJS;
+- React-Native;
+- NodeJS;
+- Flutter;
+- HTML & CSS;
+- SQL;
+- Anything.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordaobass&show_icons=true&theme=radical)
