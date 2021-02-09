@@ -21,7 +21,7 @@
    idade: 19,
    cidade: 'Rio de Janeiro, RJ',
    stack: ['HTML5','CSS3','Javascript','NodeJS', 'ReactJS', 'MongoDB', 'MySQL','Oracle', 'SqlServer', 'PostGreSql', '.NET CORE', 'React-Native', 'Flutter', 'Java' ],
-   hobbies: ['Videogames', 'Mangá', 'Cozinhar', 'Musica', 'Dota', 'Aprender coisas novas']
+   hobbies: ['Videogames', 'Mangá', 'HQ', 'Cozinhar', 'Musica', 'Dota','BasketBall' ,'Aprender coisas novas']
   });
 
   return response.status(201).send();
