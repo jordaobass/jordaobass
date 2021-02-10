@@ -17,8 +17,9 @@
 
 ```javascript
   async user.index({
-   nome: 'Jordao Bass',
-   idade: 19,
+   nome: 'Jonathan Schenker',
+   nickname: '['Jordao Bass', 'jon', 'joe']'
+   idade: 30,
    cidade: 'Rio de Janeiro, RJ',
    stack: ['HTML5','CSS3','Javascript','NodeJS', 'ReactJS', 'MongoDB', 'MySQL','Oracle', 'SqlServer', 'PostGreSql', '.NET CORE', 'React-Native', 'Flutter', 'Java' ],
    hobbies: ['Videogames', 'Mangá', 'HQ', 'Cozinhar', 'Musica', 'Dota','BasketBall' ,'Aprender coisas novas']
